@@ -1,1 +1,6 @@
 These files contain names of fruits.
+Apple
+Banana
+Mango 
+Guava
+Coconut
